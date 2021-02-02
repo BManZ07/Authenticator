@@ -125,8 +125,5 @@ def decryptFile():
 
 #myCursor.execute("ALTER TABLE tokens MODIFY token VARCHAR(32)")
 
-#print(accountCheck())
-print(decryptFile())
-#print(encryptFile())
 
 
